@@ -59,7 +59,19 @@ pip install -r requirements.txt
 
 ### 4\. Exécuter un Exercice
 
+#### EDA WINE
 
+Pour le premier exercice celui de l'exploration des donnees sur le jeu de donnees **wine**, il faut:
+-- Naviguer dans le dossier notebooks
+```bash
+cd notebooks
+```
+
+-- Une fois dans le dossier notebooks il faut lancer le serveur jupyther dans votre terminal avec la commande
+```bash
+jupyter lab
+```
+-- Ouvrir le notebook **1_EDA_wines**
 
 -----
 

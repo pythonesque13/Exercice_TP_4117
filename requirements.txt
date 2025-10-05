@@ -4,3 +4,4 @@ scikit-learn
 seaborn
 matplotlib
 plotly
+jupyter
