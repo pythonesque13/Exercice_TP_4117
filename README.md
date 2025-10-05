@@ -89,6 +89,22 @@ jupyter lab
 ```
 -- Ouvrir le notebook **2_Methode-discretisation.ipynb**
 
+------
+
+#### Apriori & FP-Growth
+
+Pour le 3e exercice celui de l'implementation des algorithmes Apriori et FP-Growth, il faut:
+-- Naviguer dans le dossier notebooks
+```bash
+cd notebooks
+```
+
+-- Une fois dans le dossier notebooks il faut lancer le serveur jupyther dans votre terminal avec la commande
+```bash
+jupyter lab
+```
+-- Ouvrir le notebook **3_Extration-rules.ipynb**
+
 ##  Désactivation de l'Environnement
 
 Lorsque vous avez fini de travailler sur le projet, vous pouvez désactiver l'environnement virtuel en utilisant la commande :

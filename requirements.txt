@@ -5,3 +5,5 @@ seaborn
 matplotlib
 plotly
 jupyter
+mlxtend
+openpyxl
