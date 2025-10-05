@@ -75,7 +75,7 @@ jupyter lab
 
 -----
 
-#### EDA WINE
+#### Application des methodes de discretisation
 
 Pour le second exercice celui de l'application des approches de discretisation sur une variable au choix(dans notre cas **alcohol** ) du jeu de donnees **wine**, il faut:
 -- Naviguer dans le dossier notebooks
@@ -104,6 +104,22 @@ cd notebooks
 jupyter lab
 ```
 -- Ouvrir le notebook **3_Extration-rules.ipynb**
+
+-----
+
+#### SPADE & GSP
+
+Pour le 4e exercice celui de l'implementation des algorithmes GSP et SPADE, il faut:
+-- Naviguer dans le dossier notebooks
+```bash
+cd notebooks
+```
+
+-- Une fois dans le dossier notebooks il faut lancer le serveur jupyther dans votre terminal avec la commande
+```bash
+jupyter lab
+```
+-- Ouvrir le notebook **4_Implementation(Spade& GSP).ipynb**
 
 ##  Désactivation de l'Environnement
 
