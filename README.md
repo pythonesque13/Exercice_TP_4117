@@ -71,9 +71,23 @@ cd notebooks
 ```bash
 jupyter lab
 ```
--- Ouvrir le notebook **1_EDA_wines**
+-- Ouvrir le notebook **1_EDA_wines.ipynb**
 
 -----
+
+#### EDA WINE
+
+Pour le second exercice celui de l'application des approches de discretisation sur une variable au choix(dans notre cas **alcohol** ) du jeu de donnees **wine**, il faut:
+-- Naviguer dans le dossier notebooks
+```bash
+cd notebooks
+```
+
+-- Une fois dans le dossier notebooks il faut lancer le serveur jupyther dans votre terminal avec la commande
+```bash
+jupyter lab
+```
+-- Ouvrir le notebook **2_Methode-discretisation.ipynb**
 
 ##  Désactivation de l'Environnement
 
